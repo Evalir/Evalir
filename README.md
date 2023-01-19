@@ -7,4 +7,4 @@ Interested in:
 
 My most used languages right now are Solidity, Rust and Typescript.
 
-reach me at swanicide (at) proton (dot) me
+reach me hi (at) enriqueortiz (dot) dev
